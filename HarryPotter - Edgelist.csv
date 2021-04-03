@@ -1,0 +1,15 @@
+from,to,weight
+hp,hg,3
+hp,ad,2
+hp,rw,3
+hp,rh,3
+hp,mm,1
+hp,hg,3
+hp,rh,2
+hg,rh,2
+rh,ad,3
+rh,mm,2
+ad,ss,3
+ss,dm,1
+dm,lv,1
+mm,ss,1
